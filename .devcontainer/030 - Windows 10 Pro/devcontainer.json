@@ -4,7 +4,7 @@
   "containerEnv": {
     "VERSION": "10"
   },
-  "forwardPorts": [8006],  
+  "forwardPorts": [8006, 3389],  
   "portsAttributes": {
     "8006": {
       "label": "Web",
